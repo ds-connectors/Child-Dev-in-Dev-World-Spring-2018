@@ -1,0 +1,14 @@
+Household ID,dogs,cats,fish,small pets,large pets,Wii,Alexa-ish product,DVD,international travel
+1,1,0,0,0,0,No,No,No,Yes
+2,1,0,0,0,0,No,Yes,Yes,Yes
+3,4,1,0,0,0,Yes,Yes,Yes,Yes
+4,0,2,3,0,0,No,No,Yes,Yes
+5,0,0,10,0,0,No,Yes,Yes,No
+6,7,0,0,1,0,Yes,No,Yes,Yes
+7,1,0,0,0,0,Yes,No,Yes,Yes
+8,2,0,0,0,0,Yes,No,No,No
+9,0,0,0,0,0,No,No,Yes,Yes
+10,0,1,0,4 rabbits,0,Yes,No,Yes,No
+11,0,0,0,0,0,Yes,Yes,Yes,Yes
+12,0,0,0,0,0,Yes,No,Yes,No
+13,2,1,0,0,0,No,No,Yes,Yes
